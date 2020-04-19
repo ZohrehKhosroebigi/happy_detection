@@ -1,4 +1,4 @@
-from  one_hot import convert_to_one_hot
+#from  one_hot import convert_to_one_hot
 class NoramlPic():
     def __init__(self, myobj):
         X_train = ""

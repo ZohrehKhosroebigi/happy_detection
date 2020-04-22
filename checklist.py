@@ -30,3 +30,4 @@ mymodel.evaluatemodel(mynorm.X_test, mynorm.Y_test)
 #mymodel.model_.summary()
 #plot_model(mymodel.model_, to_file='HappyModel.png')
 #SVG(model_to_dot(mymodel.model_).create(prog='dot', format='svg'))
+
